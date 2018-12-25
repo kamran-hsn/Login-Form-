@@ -1,0 +1,58 @@
+
+.body { 
+	background-color: black;
+}
+
+.fa-utensils{
+	font-size: 66px;
+	color: yellow;
+}
+
+.text-color{
+	color: orange;
+}
+
+.red-border{
+	border: 1px dashed pink;
+}
+
+.fa-coffee{
+	font-size: 80px;
+	color: rgb(10,550,120);
+}
+
+.fa-calendar-check{
+	font-size: 80px;
+	color: yellow;
+}
+
+.fa-cart-plus{
+	font-size: 80px;
+	color: orange;
+}
+
+.fa-bell{
+	font-size: 80px;
+	color: green;
+}
+
+.fa-user{
+	font-size: 80px;
+	color: chocolate;
+}
+
+.row{
+	text-align: center;
+	align-items: center;
+	justify-content: center;
+}
+.col-md-2{
+	display: flex;
+	flex-direction: column;
+}
+
+button{
+	background-color: transparent;
+	color: rgb(10,300,690);
+	border: .5px solid pink;
+}

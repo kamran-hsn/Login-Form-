@@ -1,0 +1,68 @@
+.body{
+	background-color: black;
+}
+
+.fa-utensils{
+	font-size: 66px;
+	color: yellow;
+}
+
+.text-color{
+	color: orange;
+}
+
+.form-body{
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+	width: 600px;
+	height: 400px;
+	border: 1px solid gray;
+	margin-left:20%;
+}
+
+.email,.password{
+	margin-left: 90px;
+
+}
+
+.form-field{
+	width: 250px;
+}
+
+.remember-button{
+	margin-left: 245px;
+}
+
+strong{
+	margin-left: 45px;margin-right: 85px;
+	color: rgb(145,60,90);
+}
+
+.fa-user-tie{
+	font-size: 25px;
+	color: lightblue;
+}
+.fa-unlock{
+	font-size: 25px;
+	color: orange;
+}
+
+.fa-user-check{
+	color: mediumseagreen;
+}
+.fa-user-plus{
+	color: lightblue;
+}
+.fa-undo-alt{
+	color: violet;
+}
+.fa-times{
+	color: rgb(150,50,10);
+}
+.fa-key{
+	color: silver;
+}
+.fa-smile{
+	color: yellow;
+}
